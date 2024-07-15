@@ -1,2 +1,2 @@
-[Note](New%20note.md)
+[Note](New-note.md)
 
